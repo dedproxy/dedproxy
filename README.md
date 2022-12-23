@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures , Frontend Development , C#**
 
-- 👯 I’m looking to collaborate on **Frontend work!**
+- 👯 I’m looking to collaborate on **Personal projects**
 
 - 🤝 I’m looking for help with **Frontend work!**
 
