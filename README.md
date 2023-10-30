@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C++ , C , Python , Unity , git , Linux , Gaming🎮**
 
-- 📫 How to reach me **rishabrajkmr4567@gmial.com**
+- 📫 How to reach me **rishabrajkmr4567@gmail.com**
 
 - ⚡ Fun fact **I think the best way of learning something is by making it a daily habit!🤖**
 
