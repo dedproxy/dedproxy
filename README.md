@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm dedproxy</h1>
 <h3 align="center">Incoming Software developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structures , Frontend Development , C#**
+- 🌱 I’m currently learning ** Frontend Development **
 
 - 👯 I’m looking to collaborate on **Personal projects**
 
 - 🤝 I’m looking for help with **Frontend work!**
 
-- 💬 Ask me about **C++ , C , Python , Unity , git , Linux , Gaming🎮**
+- 💬 Ask me about **C++ , C , git , Linux , Gaming🎮**
 
 - 📫 How to reach me **rishabrajkmr4567@gmail.com**
 
